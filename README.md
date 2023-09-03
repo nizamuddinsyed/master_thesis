@@ -22,4 +22,4 @@ The results are discussed in detail in the Master's thesis. The proposed solutio
 - Syed, Nizam Uddin (Master's Thesis Author)
 
 ## Thesis Link
-[Download Full Thesis](LINK_TO_THE_THESIS_ON_GITHUB)
+[Download Full Thesis](https://github.com/nizamuddinsyed/master_thesis/blob/main/Master_Thesis_NizamSyed.pdf)
